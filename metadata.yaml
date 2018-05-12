@@ -1,0 +1,48 @@
+_repo: Luiz-de-Cam-es--notas-biograficasPrefacio-da-setima-edi--o-do-Cam-es-de-Garrett_24514
+_version: 0.1.0
+alternative_title: "Luís de Camões: notas biográficas\r\nPrefácio da sétima edição\
+  \ do Camões de Garrett"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castelo Branco, Camilo
+    aliases:
+    - Branco, Camilo Ferreira Botelho Castelo
+    - Corrêa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Correa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Correia Botelho, Camillo Castello Branco, visconde de
+    - Branco, Camilo Castelo
+    - Botelho Castelo Branco, Camilo Ferreira
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '6699'
+    url: http://www.gutenberg.org/2009/agents/6699
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
+    - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2008-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24514'
+language: pt
+language_note: This ebook uses a 19th century spelling
+production_note: Produced by Pedro Saborano (from images made available by Google
+  Book Search)
+publication_note: "Porto:\r\nTyp. de A. J. da Silva Teixeira\r\nCancella Velha, 62\r\
+  \n1880"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Camões, Luís de, 1524?-1580'
+- !lcsh 'Biography'
+- !lcc 'CT'
+title: 'Luiz de Camões: notas biograficas
+
+  Prefacio da setima edição do Camões de Garrett'
+url: http://www.gutenberg.org/ebooks/24514
