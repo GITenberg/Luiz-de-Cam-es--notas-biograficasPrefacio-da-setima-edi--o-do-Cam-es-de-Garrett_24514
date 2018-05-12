@@ -23,6 +23,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24514#Luiz-de-Cam-es--notas-biograficasPrefacio-da-setima-edi--o-do-Cam-es-de-Garrett
 gutenberg_bookshelf: PT Biografia
 gutenberg_issued: '2008-02-04'
 gutenberg_type: Text
